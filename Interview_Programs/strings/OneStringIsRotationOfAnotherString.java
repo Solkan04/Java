@@ -6,7 +6,7 @@ public class OneStringIsRotationOfAnotherString
 	public static void main(String[] args) 
 	{
 		String s1="javaava";
-		String s2="avaavaj";
+		String s2="mahesh";
 		if(checkRotation(s1, s2))
 			System.out.println("Yes " +s1+ " is Rotation of " +s2);
 		else
