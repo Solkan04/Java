@@ -1,6 +1,6 @@
 package strings;
 
-public class A {
+public class LeadA {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
