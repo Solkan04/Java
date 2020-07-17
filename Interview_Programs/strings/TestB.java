@@ -1,5 +1,5 @@
 package strings;
 
-public class TestA {
+public class TestB {
 
 }
