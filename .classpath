@@ -8,5 +8,9 @@
 	<classpathentry kind="src" path="AbstractClass_Programs"/>
 	<classpathentry kind="src" path="AccessSpecifiers_Programs"/>
 	<classpathentry kind="src" path="Interface_Programs"/>
+	<classpathentry kind="src" path="Inheritance_Programs"/>
+	<classpathentry kind="src" path="Constructor_Programs"/>
+	<classpathentry kind="src" path="Other_Programs"/>
+	<classpathentry kind="src" path="Methods_Programs"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
