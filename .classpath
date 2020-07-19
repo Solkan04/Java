@@ -6,5 +6,7 @@
 	<classpathentry kind="src" path="ThisKeyword_Programs"/>
 	<classpathentry kind="src" path="SuperKeyword_Programs"/>
 	<classpathentry kind="src" path="AbstractClass_Programs"/>
+	<classpathentry kind="src" path="AccessSpecifiers_Programs"/>
+	<classpathentry kind="src" path="Interface_Programs"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
